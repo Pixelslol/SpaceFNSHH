@@ -1,7 +1,7 @@
 {
-  "name": "neonitev2",
-  "version": "2.7.3",
-  "description": "A Fortnite private server/lobby emulator allowing you to design your dream Fortnite experience",
+  "name": "spacefnv1",
+  "version": "1.1.3",
+  "description": "A Fortnite private server.",
   "main": "app.js",
   "dependencies": {
     "axios": "^0.21.2",
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeoniteDev/NeoniteV2.git"
+    "url": "git+"
   },
   "author": "kemo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NeoniteDev/NeoniteV2/pulls"
+    "url": ""
   },
-  "homepage": "https://github.com/NeoniteDev/NeoniteV2#readme",
+  "homepage": "",
   "devDependencies": {
     "@types/express": "^4.17.11",
     "@types/ws": "^7.4.0",
